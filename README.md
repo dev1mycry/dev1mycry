@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @dev1mycry
-- 👀 I’m interested in development mobile
-- 🌱 I’m currently learning kotlin, javascript
-- 💞️ I’m making bootcamps and mentoring to learn more 
+- 👋 Olá, sou John Elton
+- 👀 Tenho interesse em desenvolvimento mobile
+- 🌱 Estou atualmente aprendendo kotlin, javascript...
+- 💞️ Estou fazendo bootcamps e mentorias para aprender mais 
+- ✈️ Como um bom geek, gosto de novidades techs, mas também, de viajar e da 7º arte 
 
 
 <!---
