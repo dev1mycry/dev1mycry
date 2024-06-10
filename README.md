@@ -1,6 +1,6 @@
 - 👋 Olá, sou John Elton
-- 👀 Tenho interesse em front-end e desenvolvimento mobile
-- 🌱 Estou atualmente aprendendo kotlin, javascript...
+- 👀 Tenho interesse em front-end, dev mobile e análise de dados
+- 🌱 Estou atualmente aprendendo SQL, HTML, CSS, BI...
 - 💞️ Estou fazendo bootcamps e mentorias para aprender mais 
 - ✈️ Como um bom geek, gosto de novidades techs, mas também, de viajar e da 7º arte 
 
