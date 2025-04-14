@@ -1,4 +1,4 @@
-- 👋 Olá, sou John Elton
+- 👋 Olá, tudo bem?
 - 👀 Tenho interesse em front-end, dev mobile e análise de dados
 - 🌱 Estou atualmente aprendendo SQL, HTML, CSS, BI...
 - 💞️ Estou fazendo bootcamps e mentorias para aprender mais 
