@@ -14,7 +14,7 @@ Sou um entusiasta da tecnologia explorando o mundo do desenvolvimento e dados. A
 
 - 👀 **Interesses:** Front-end, Desenvolvimento Mobile e Análise de Dados.
 - 🌱 **Estudando:** SQL, HTML, CSS, Power BI e ferramentas de Business Intelligence.
-- 🤖 **Novidade:** Recentemente concluí um curso iniciante em **Machine Learning**, com um projeto prático desenvolvido no **Amazon SageMaker Canvas**.
+- 🤖 **Novidade:** Recentemente concluí um curso iniciante em **Machine Learning**, com um projeto prático desenvolvido no **Amazon SageMaker Canvas**. Também, conclui curso em vibe coding do Lovable.
 - 💞️ **Objetivo:** Busco oportunidades para aplicar meu aprendizado e evoluir como desenvolvedor.
 
 ---
@@ -34,8 +34,8 @@ Sou um entusiasta da tecnologia explorando o mundo do desenvolvimento e dados. A
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dev1mycry&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev1mycry&layout=compact&theme=dracula"/>
 </div>
 
 ---
