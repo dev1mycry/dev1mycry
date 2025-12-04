@@ -1,9 +1,44 @@
-- 👋 Olá, tudo bem?
-- 👀 Tenho interesse em front-end, dev mobile e análise de dados
-- 🌱 Estou atualmente aprendendo SQL, HTML, CSS, BI...
-- 💞️ Estou fazendo bootcamps e mentorias para aprender mais 
-- ✈️ Como um bom geek, gosto de novidades techs, mas também, de viajar e da 7º arte 
 
+<div align="center">
+  <h2>Olá, tudo bem? 👋</h2>
+  <p>
+    <em>Geek apaixonado por tecnologia, viagens e cinema.</em> ✈️ 🍿
+  </p>
+</div>
+
+---
+
+### 🚀 Sobre Mim
+
+Sou um entusiasta da tecnologia explorando o mundo do desenvolvimento e dados. Atualmente, estou focado em construir uma base sólida através de bootcamps e mentorias, sempre buscando conectar criatividade com análise técnica.
+
+- 👀 **Interesses:** Front-end, Desenvolvimento Mobile e Análise de Dados.
+- 🌱 **Estudando:** SQL, HTML, CSS, Power BI e ferramentas de Business Intelligence.
+- 🤖 **Novidade:** Recentemente concluí um curso iniciante em **Machine Learning**, com um projeto prático desenvolvido no **Amazon SageMaker Canvas**.
+- 💞️ **Objetivo:** Busco oportunidades para aplicar meu aprendizado e evoluir como desenvolvedor.
+
+---
+
+### 🛠️ Tech Stack & Ferramentas
+
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Amazon_Sagemaker-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dracula"/>
+</div>
+
+---
 
 <!---
 dev1mycry/dev1mycry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
