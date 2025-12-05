@@ -34,8 +34,8 @@ Sou um entusiasta da tecnologia explorando o mundo do desenvolvimento e dados. A
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://vercel.com/dev1mycrys-projects/github-readme-stats/api?username=dev1mycry&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://vercel.com/dev1mycrys-projects/github-readme-stats/api/top-langs/?username=dev1mycry&layout=compact&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats-two-sable-61.vercel.app/api?username=dev1mycry&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-two-sable-61.vercel.app/api/top-langs/?username=dev1mycry&layout=compact&theme=dracula"/>
 </p>
 
 
