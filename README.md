@@ -13,8 +13,8 @@
 Sou um entusiasta da tecnologia explorando o mundo do desenvolvimento e dados. Atualmente, estou focado em construir uma base sólida através de bootcamps e mentorias, sempre buscando conectar criatividade com análise técnica.
 
 - 👀 **Interesses:** Front-end, Desenvolvimento Mobile e Análise de Dados.
-- 🌱 **Estudando:** SQL, HTML, CSS, Power BI e ferramentas de Business Intelligence.
-- 🤖 **Novidade:** Recentemente concluí um curso iniciante em **Machine Learning**, com um projeto prático desenvolvido no **Amazon SageMaker Canvas**. Também, conclui curso em vibe coding do Lovable.
+- 🌱 **Estudando:** SQL, HTML, CSS, Power BI e ferramentas no-code e vibe-code.
+- 🤖 **Novidade:** Recentemente concluí um curso iniciante em **Machine Learning**, com um projeto prático desenvolvido no **Amazon SageMaker Canvas**. Também, conclui curso sobre vibe-code usando Lovable.
 - 💞️ **Objetivo:** Busco oportunidades para aplicar meu aprendizado e evoluir como desenvolvedor.
 
 ---
